@@ -3,7 +3,6 @@
 
 <h2>Files</h2>
 <ul>
-    <li><strong>british airways dashboard.twbx:</strong> The Tableau Data Source file.</li>
     <li><strong>British airways reviews - 01.twb:</strong> The Tableau Workbook file.</li>
      <li><strong>Data Source:</strong> Access the data file <strong>british airways analysis</strong>.</li>
 
