@@ -5,10 +5,13 @@
 <ul>
     <li><strong>Report.tdsx:</strong> The Tableau Data Source file.</li>
     <li><strong>Workbook.twb:</strong> The Tableau Workbook file.</li>
-    <li><strong>DataSource/:</strong> Folder with data source files (e.g., CSV, Excel).</li>
+     <li><strong>Data Source:</strong> Access the data file <strong>Plant_DTS.xls</strong>.</li>
+
 </ul>
 
 <h2>Getting Started</h2>
+
+<p><strong>Explore the Power BI Dashboard <a href="https://app.powerbi.com/links/36p6cf_PUC?ctid=71b778b1-0a13-4b09-bd42-94367e4d13a2&pbi_source=linkShare" target="_blank">here</a> for an overview of key insights and visualizations.</p>
 
 <h3>Screenshots of the Report</h3>
 
