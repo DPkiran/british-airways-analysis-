@@ -3,9 +3,9 @@
 
 <h2>Files</h2>
 <ul>
-    <li><strong>Report.tdsx:</strong> The Tableau Data Source file.</li>
-    <li><strong>Workbook.twb:</strong> The Tableau Workbook file.</li>
-     <li><strong>Data Source:</strong> Access the data file <strong>Plant_DTS.xls</strong>.</li>
+    <li><strong>british airways dashboard.twbx:</strong> The Tableau Data Source file.</li>
+    <li><strong>British airways reviews - 01.twb:</strong> The Tableau Workbook file.</li>
+     <li><strong>Data Source:</strong> Access the data file <strong>british airways analysis</strong>.</li>
 
 </ul>
 
